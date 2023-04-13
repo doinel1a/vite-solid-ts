@@ -1,10 +1,10 @@
 [node]: https://nodejs.org/en
 [yarn]: https://yarnpkg.com
-[demo]: https://vite-react-ts-starter.d1a.app/
-[license]: https://github.com/doinel1a/vite-react-ts-starter/blob/main/LICENSE
-[code-of-conduct]: https://github.com/doinel1a/vite-react-ts-starter/blob/main/CODE_OF_CONDUCT.md
-[issues]: https://github.com/doinel1a/vite-react-ts-starter/issues
-[pulls]: https://github.com/doinel1a/vite-react-ts-starter/pulls
+[demo]: https://vite-solid-ts.d1a.app/
+[license]: https://github.com/doinel1a/vite-solid-ts/blob/main/LICENSE
+[code-of-conduct]: https://github.com/doinel1a/vite-solid-ts/blob/main/CODE_OF_CONDUCT.md
+[issues]: https://github.com/doinel1a/vite-solid-ts/issues
+[pulls]: https://github.com/doinel1a/vite-solid-ts/pulls
 [browserslist]: https://browsersl.ist/#q=last+3+versions%2C%3E+0.2%25%2C+not+dead
 [graphviz]: https://www.graphviz.org/download
 [commitlint]: https://github.com/conventional-changelog/commitlint/#what-is-commitlint
@@ -26,7 +26,7 @@
 [opera-icon]: https://github.com/alrra/browser-logos/blob/main/src/opera/opera_64x64.png
 [safari-icon]: https://github.com/alrra/browser-logos/blob/main/src/safari/safari_64x64.png
 
-# Vite React Typescript — Starter template
+# Vite Solid Typescript — Template
 
 Are you looking for a way to supercharge your development experience and build stunning web applications with ease? You are in the right place!
 This development starter template is the ultimate solution to help you getting started on your project in no time, without the hassle of setting up and configuring your development environment from scratch each time you start working.
@@ -50,7 +50,7 @@ This template is ideal for front-end developers who want to build modern, fast a
 
 This development starter template comes fully equipped with all the necessary tools to create modern, responsive and fast web applications, including:
 
-- **React JS**: A library for building user interfaces that uses a declarative approach and provides a way to create reusable UI components;
+- **Solid JS**: A library for building user interfaces that uses a declarative approach and provides a way to create reusable UI components;
 - **TypeScript**: A programming language that adds static type checking to JavaScript and provides additional features such as interfaces, enums, and classes;
 - **Tailwind CSS**: A utility-first CSS framework that provides predefined classes for common styles and layout patterns, allowing quick styling without writing custom CSS;
 - **SASS**: A CSS preprocessor that adds features such as variables, nesting, and mixins to CSS, making it easier to write and maintain large CSS codebases;
@@ -89,7 +89,7 @@ And with tools that enhance the development experience:
 
   - click **"Use this template"** button <br/> or
   - click the **"Fork"** button <br/> or
-  - **clone** the repository `git clone https://github.com/doinel1a/vite-react-ts-starter/ YOUR-PROJECT-NAME`;
+  - **clone** the repository `git clone https://github.com/doinel1a/vite-solid-ts/ YOUR-PROJECT-NAME`;
 
 - Open the terminal or the code editor, to the path your project is located, and run:
 
